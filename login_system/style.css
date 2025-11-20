@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+table {
+  border-collapse: collapse;
+  width: 80%;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f4f4f4;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+button {
+  padding: 6px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}
